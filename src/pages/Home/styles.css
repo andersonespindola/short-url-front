@@ -1,0 +1,10 @@
+.site-layout-content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+}
+.ant-row-rtl {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
+
